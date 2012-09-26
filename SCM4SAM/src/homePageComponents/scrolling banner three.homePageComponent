@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;h2&gt;&lt;marquee behavior=&quot;scroll&quot; direction=&quot;up&quot; amount=&quot;2&quot; onmouseout=&quot;this.scroll&quot; bgcolor=&quot;yellow&quot;&gt;&lt;font color=&quot;black&quot;&gt;HELLO THERE!!! &lt;br&gt;&lt;p&gt;Hello ABD&lt;/p&gt; &lt;/font&gt;&lt;/marquee&gt;&lt;/h2&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>narrow</width>
+</HomePageComponent>
