@@ -1,0 +1,13 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  This is your new Page
+  THis is a second page created in Salesforce directly
+  This is a third page created in eclipse
+  This is a fourth page created in eclipse
+  This is the fifth page created in eclipse
+  This is the sixth page created in eclipse
+  THis is the seventh page created in eclipse
+  This is the eighth page from eclipse
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
